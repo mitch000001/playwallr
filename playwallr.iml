@@ -22,24 +22,26 @@
     <orderEntry type="module-library">
       <library name="PlayFramework Dependencies">
         <CLASSES>
-          <root url="file://$USER_HOME$/Applications/play-1.2.3/framework/lib" />
+          <root url="file:///Users/bjoern/Applications/play-1.2.3/framework/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/Applications/play-1.2.3/framework/lib" recursive="false" />
+        <jarDirectory url="file:///Users/bjoern/Applications/play-1.2.3/framework/lib" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Applications/play-1.2.3/framework/play-1.2.3.jar!/" />
+          <root url="jar:///Users/bjoern/Applications/play-1.2.3/framework/play-1.2.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/Applications/play-1.2.3/framework/src" />
+          <root url="file:///Users/bjoern/Applications/play-1.2.3/framework/src" />
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="play 1.2.3" level="application" />
+    <orderEntry type="library" name="Twitter4J" level="application" />
   </component>
 </module>
 
